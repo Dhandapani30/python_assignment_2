@@ -19,4 +19,4 @@ class Person:
 x = Person("X", "D", "01 Jan, 2008")
 
 x.printdetails()
-print(x.is_eligible(14))
+print(x.is_eligible(18))
